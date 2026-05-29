@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7428116976035825887}
   - component: {fileID: 7763208945970458436}
   - component: {fileID: 2005405694165344182}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: CharacterMover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ GameObject:
   - component: {fileID: 986612147253033549}
   - component: {fileID: 9202085150619870616}
   - component: {fileID: 1700597457207436428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: CharacterArt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
