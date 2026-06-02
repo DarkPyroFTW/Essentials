@@ -1,6 +1,6 @@
 //Maya ASCII 2026 scene
-//Name: BookShelf.ma.ma
-//Last modified: Mon, Jun 01, 2026 07:02:26 PM
+//Name: Book_Shelf.ma
+//Last modified: Mon, Jun 01, 2026 07:03:12 PM
 //Codeset: UTF-8
 requires maya "2026";
 requires "mtoa" "5.5.4.2";
@@ -10,7 +10,7 @@ fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202510291147-60ec9eda33";
 fileInfo "osv" "Mac OS X 14.5";
-fileInfo "UUID" "523CC250-4D4F-60CF-74EC-BB8EE15CDD09";
+fileInfo "UUID" "19BAB824-154E-4F3C-9D12-15B345E9546F";
 createNode transform -n "Shelf";
 	rename -uid "753F29E0-9F4D-3357-DD7C-ABA2796B5136";
 	setAttr ".t" -type "double3" -3.9220082464635766 8.254388488631939 100.21908129926209 ;
@@ -233,4 +233,4 @@ connectAttr "pCubeShape2.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pasted__pCubeShape2.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "|Shelf|pasted__pCube3|pasted__pCubeShape3.iog" ":initialShadingGroup.dsm"
 		 -na;
-// End of BookShelf.ma.ma
+// End of Book_Shelf.ma
