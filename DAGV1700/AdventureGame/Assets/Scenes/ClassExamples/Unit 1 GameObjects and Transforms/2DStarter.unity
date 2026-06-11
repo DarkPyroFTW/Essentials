@@ -356,6 +356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spike_Guy Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 5033057933624183638, guid: 80381094815cb42bfa74919d5865bff2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4165727229729027890, guid: bb8f35504d0d42343b3cdb04faaa9d15, type: 3}
     - target: {fileID: 6412802055277082135, guid: 80381094815cb42bfa74919d5865bff2, type: 3}
       propertyPath: m_Size.x
       value: -0.35
@@ -516,6 +520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pink
       objectReference: {fileID: 0}
+    - target: {fileID: 7624275575372203103, guid: d42383e48cda440e79484b80208a231b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 348c3b734b11d3b4aa5c69e25b7113e6, type: 3}
     - target: {fileID: 8275262559983510662, guid: d42383e48cda440e79484b80208a231b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.29
@@ -613,6 +621,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9139003172246977990, guid: dd88db56638f9419790fbe62391051ea, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2538710101d0f1f4e8976b3495cd1f75, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -803,6 +815,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1474293017808612486, guid: 5ea71f03bda9d4529a79970f369e4bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8049ea91a9d5fca4dab4024c0915dbe6, type: 3}
     - target: {fileID: 8564681010135093396, guid: 5ea71f03bda9d4529a79970f369e4bcc, type: 3}
       propertyPath: m_Name
       value: Blue
@@ -1315,6 +1331,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yellow
       objectReference: {fileID: 0}
+    - target: {fileID: 4626715888419988756, guid: ac010399caae7491c83ca5c3d4c076fe, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4d8c75a4d7dd2a0489270e1058d82128, type: 3}
     - target: {fileID: 6569653306388022733, guid: ac010399caae7491c83ca5c3d4c076fe, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.08
@@ -1478,7 +1498,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3746994714218221041, guid: 37316647a65644755936dbc6a667a43e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.8801599
+      value: 4.2701597
       objectReference: {fileID: 0}
     - target: {fileID: 3746994714218221041, guid: 37316647a65644755936dbc6a667a43e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1539,7 +1559,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4680657957412454104, guid: dce71dc318e804ac9807d1fcb4bf64cf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.97
+      value: 1.36
       objectReference: {fileID: 0}
     - target: {fileID: 4680657957412454104, guid: dce71dc318e804ac9807d1fcb4bf64cf, type: 3}
       propertyPath: m_LocalPosition.z
