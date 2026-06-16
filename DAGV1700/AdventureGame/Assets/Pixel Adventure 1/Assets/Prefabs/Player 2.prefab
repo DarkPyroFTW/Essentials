@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7556389892126622959}
   - component: {fileID: 5440493678086558986}
   - component: {fileID: 6397353492823763152}
+  - component: {fileID: 7654687961901497704}
   m_Layer: 3
   m_Name: Art
   m_TagString: Untagged
@@ -131,6 +132,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7654687961901497704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1340556227531105261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b58e542e4e133483ca34f3afb817f460, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterAnimationController
+  controller: {fileID: 0}
 --- !u!1 &2941704805113968933
 GameObject:
   m_ObjectHideFlags: 0
